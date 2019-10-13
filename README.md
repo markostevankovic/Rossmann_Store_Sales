@@ -1,2 +1,2 @@
-# Rossmann_Store_Sales
-Master's thesis
+# Rossmann Store Sales
+Master's thesis - Faculty of Organizational Sciences Belgrade Serbia
